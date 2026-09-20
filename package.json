@@ -2,6 +2,7 @@
   "name": "b14-a05-devstack",
   "private": true,
   "version": "0.0.0",
+  "description": "A responsive Dev Stack Builder website built with React and Vite.",
   "type": "module",
   "scripts": {
     "dev": "vite",
