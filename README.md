@@ -4,8 +4,8 @@ A responsive React website for exploring modern development technologies and bui
 
 ## 🔗 Project Links
 
-* **GitHub Repository:** https://github.com/mdrakibulislammasud/B14-A05-DevStack
-* **Live Site:** Coming soon
+- **GitHub Repository:** https://github.com/mdrakibulislammasud/B14-A05-DevStack
+- **Live Site:** https://b14-a05-dev-stack-psi.vercel.app/
 
 ## 🛠️ Technologies Used
 
