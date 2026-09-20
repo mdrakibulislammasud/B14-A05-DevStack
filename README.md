@@ -4,8 +4,8 @@ A responsive React website for exploring modern development technologies and bui
 
 ## 🔗 Project Links
 
-* **GitHub Repository:** Add your repository URL here after publishing.
-* **Live Site:** Add your deployed URL here after deployment.
+* **GitHub Repository:** https://github.com/mdrakibulislammasud/B14-A05-DevStack
+* **Live Site:** Coming soon
 
 ## 🛠️ Technologies Used
 
@@ -20,9 +20,13 @@ A responsive React website for exploring modern development technologies and bui
 ## ✨ Features
 
 1. **Technology Explorer** — 12 technology cards are loaded dynamically from `public/data.json` and displayed in a responsive grid.
+
 2. **Personal Stack Builder** — Add technologies to your stack, prevent duplicate selections, remove individual items, or clear the entire stack.
+
 3. **Responsive & Interactive UI** — Includes a sticky navigation bar, mobile hamburger menu, loading state, gradient-based design, and toast notifications.
+
 4. **Responsive Design** — The website adapts to desktop, tablet, and mobile screen sizes.
+
 5. **Interactive Stack Counter** — Displays the number of technologies currently selected in the personal stack.
 
 ## ▶️ Run Locally
@@ -32,7 +36,7 @@ Follow these steps to run the project on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/mdrakibulislammasud/B14-A05-DevStack.git
 ```
 
 ### 2. Open the project folder
